@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: wake-on-lan-app
+name: Wake-on-LAN
+tagline: Easily wake your PC from your Umbrel Dashboard.
+icon: https://svgur.com/i/mvA.svg
+category: Utilities
+version: "1.0.0"
+port: 80
+description: >-
+  A simple app to wake your PC or any other device using Wake-on-LAN from your Umbrel Dashboard.
+developer: Olcay
+website: https://yourwebsite.com
+submitter: Olcay
+submission: https://github.com/yourusername/your-repo
+repo: https://github.com/yourusername/your-repo
+support: https://github.com/yourusername/your-repo/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Initial release of Wake-on-LAN App.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
